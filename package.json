@@ -1,0 +1,14 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "first apps using electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello Word"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "fan",
+  "license": "MIT"
+}
